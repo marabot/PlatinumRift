@@ -1,0 +1,6 @@
+E:\workbench\workspaceC#\consoleLinux\CodingGame\platinum rift\bin\Debug\platinum rift.exe.config
+E:\workbench\workspaceC#\consoleLinux\CodingGame\platinum rift\obj\Debug\platinum rift.csprojResolveAssemblyReference.cache
+E:\workbench\workspaceC#\consoleLinux\CodingGame\platinum rift\bin\Debug\platinum rift.exe
+E:\workbench\workspaceC#\consoleLinux\CodingGame\platinum rift\bin\Debug\platinum rift.pdb
+E:\workbench\workspaceC#\consoleLinux\CodingGame\platinum rift\obj\Debug\platinum rift.exe
+E:\workbench\workspaceC#\consoleLinux\CodingGame\platinum rift\obj\Debug\platinum rift.pdb
